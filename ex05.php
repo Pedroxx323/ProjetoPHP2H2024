@@ -1,7 +1,9 @@
 <?php 
 
 //Atividade número 4
-	//Dupla: Katia / Pedro
+	
+	//Dupla: Pedro dos Santos Freitas, Katia Beloto
+
 
 	$altura = 1.66;
 	$idade = 52;
