@@ -1,4 +1,6 @@
 <?php 
+	
+	//Dupla: Pedro dos Santos Freitas, Katia Beloto
 	//declarando variavel
 	$nome = "Katia";
 	$idade = 52;
