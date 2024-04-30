@@ -1,4 +1,6 @@
 <?php 
+	
+	//Dupla: Pedro dos Santos Freitas, Katia Beloto
 	//declarando variavel
 	$valor1 = 55;
 
