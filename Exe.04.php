@@ -1,7 +1,7 @@
 <?php 
 	
-	//Atividade número 2
-	//Dupla: katia / Pedro
+	//Atividade número 
+	//Dupla: Pedro dos Santos Freitas, Katia Beloto
 
 	$num1 = 5;
 	$num2 = 6;
